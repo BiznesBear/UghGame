@@ -1,0 +1,4 @@
+module "UFL" as ufl from "C:\Users\ADAM\source\repos\UFL\UFL\bin\Debug\net9.0\UFL.dll";
+
+win = ufl.CreateWindow(400, 300, "Game"); 
+

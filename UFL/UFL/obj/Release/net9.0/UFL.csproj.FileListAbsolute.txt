@@ -1,0 +1,12 @@
+C:\Users\ADAM\source\repos\UFL\UFL\bin\Release\net9.0\UFL.deps.json
+C:\Users\ADAM\source\repos\UFL\UFL\bin\Release\net9.0\UFL.dll
+C:\Users\ADAM\source\repos\UFL\UFL\bin\Release\net9.0\UFL.pdb
+C:\Users\ADAM\source\repos\UFL\UFL\obj\Release\net9.0\UFL.csproj.AssemblyReference.cache
+C:\Users\ADAM\source\repos\UFL\UFL\obj\Release\net9.0\UFL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADAM\source\repos\UFL\UFL\obj\Release\net9.0\UFL.AssemblyInfoInputs.cache
+C:\Users\ADAM\source\repos\UFL\UFL\obj\Release\net9.0\UFL.AssemblyInfo.cs
+C:\Users\ADAM\source\repos\UFL\UFL\obj\Release\net9.0\UFL.csproj.CoreCompileInputs.cache
+C:\Users\ADAM\source\repos\UFL\UFL\obj\Release\net9.0\UFL.dll
+C:\Users\ADAM\source\repos\UFL\UFL\obj\Release\net9.0\refint\UFL.dll
+C:\Users\ADAM\source\repos\UFL\UFL\obj\Release\net9.0\UFL.pdb
+C:\Users\ADAM\source\repos\UFL\UFL\obj\Release\net9.0\ref\UFL.dll

@@ -1,0 +1,15 @@
+C:\Users\ADAM\source\repos\UFL\UFL\bin\Release\net9.0\win-x64\UFL.deps.json
+C:\Users\ADAM\source\repos\UFL\UFL\bin\Release\net9.0\win-x64\UFL.dll
+C:\Users\ADAM\source\repos\UFL\UFL\bin\Release\net9.0\win-x64\UFL.pdb
+C:\Users\ADAM\source\repos\UFL\UFL\bin\Release\net9.0\win-x64\UghLang.dll
+C:\Users\ADAM\source\repos\UFL\UFL\bin\Release\net9.0\win-x64\UghLang.pdb
+C:\Users\ADAM\source\repos\UFL\UFL\obj\Release\net9.0\win-x64\UFL.csproj.AssemblyReference.cache
+C:\Users\ADAM\source\repos\UFL\UFL\obj\Release\net9.0\win-x64\UFL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADAM\source\repos\UFL\UFL\obj\Release\net9.0\win-x64\UFL.AssemblyInfoInputs.cache
+C:\Users\ADAM\source\repos\UFL\UFL\obj\Release\net9.0\win-x64\UFL.AssemblyInfo.cs
+C:\Users\ADAM\source\repos\UFL\UFL\obj\Release\net9.0\win-x64\UFL.csproj.CoreCompileInputs.cache
+C:\Users\ADAM\source\repos\UFL\UFL\obj\Release\net9.0\win-x64\UFL.csproj.Up2Date
+C:\Users\ADAM\source\repos\UFL\UFL\obj\Release\net9.0\win-x64\UFL.dll
+C:\Users\ADAM\source\repos\UFL\UFL\obj\Release\net9.0\win-x64\refint\UFL.dll
+C:\Users\ADAM\source\repos\UFL\UFL\obj\Release\net9.0\win-x64\UFL.pdb
+C:\Users\ADAM\source\repos\UFL\UFL\obj\Release\net9.0\win-x64\ref\UFL.dll

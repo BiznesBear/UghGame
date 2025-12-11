@@ -1,0 +1,14 @@
+C:\Users\ADAM\source\repos\UFL\UFL\bin\Release\net9.0\win-x64\publish\UFL.dll
+C:\Users\ADAM\source\repos\UFL\UFL\bin\Release\net9.0\win-x64\publish\UFL.deps.json
+C:\Users\ADAM\source\repos\UFL\UFL\bin\Release\net9.0\win-x64\publish\UFL.pdb
+C:\Users\ADAM\source\repos\UFL\UFL\bin\Release\net9.0\win-x64\publish\SFML.Audio.dll
+C:\Users\ADAM\source\repos\UFL\UFL\bin\Release\net9.0\win-x64\publish\SFML.Graphics.dll
+C:\Users\ADAM\source\repos\UFL\UFL\bin\Release\net9.0\win-x64\publish\SFML.System.dll
+C:\Users\ADAM\source\repos\UFL\UFL\bin\Release\net9.0\win-x64\publish\SFML.Window.dll
+C:\Users\ADAM\source\repos\UFL\UFL\bin\Release\net9.0\win-x64\publish\csfml-audio.dll
+C:\Users\ADAM\source\repos\UFL\UFL\bin\Release\net9.0\win-x64\publish\csfml-graphics.dll
+C:\Users\ADAM\source\repos\UFL\UFL\bin\Release\net9.0\win-x64\publish\csfml-system.dll
+C:\Users\ADAM\source\repos\UFL\UFL\bin\Release\net9.0\win-x64\publish\csfml-window.dll
+C:\Users\ADAM\source\repos\UFL\UFL\bin\Release\net9.0\win-x64\publish\openal32.dll
+C:\Users\ADAM\source\repos\UFL\UFL\bin\Release\net9.0\win-x64\publish\UghLang.dll
+C:\Users\ADAM\source\repos\UFL\UFL\bin\Release\net9.0\win-x64\publish\UghLang.pdb
