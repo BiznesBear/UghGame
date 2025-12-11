@@ -1,0 +1,33 @@
+# Constants #
+def C_RED: ufl.GetRGB(255, 0, 0);
+def SPEED: 3;
+
+ufl.InitWindow(400, 300, "Game");
+
+rect = ufl.Rectangle(ufl.VectorTwo(70, 70), C_RED);
+
+player = object {
+	posX: 0;
+	posY: 0;
+};
+
+
+# Game loop #
+while ufl.ShouldWindowClose() {
+	
+	# Handle input #
+	if keyboard.IsKeyPressed("W") { posY::player - SPEED; }
+	if keyboard.IsKeyPressed("S") { posY::player + SPEED; }
+	if keyboard.IsKeyPressed("A") { posX::player - SPEED; }
+	if keyboard.IsKeyPressed("D") { posX::player + SPEED; }
+	
+	# No vector normalization. Let's go =) # 
+	
+	ufl.Clear(); # Begin drawing #
+	
+	ufl.DrawShape(rect, posX::player, posY::player);
+
+	ufl.Display(); # End drawing #
+
+	ufl.DispatchEvents();
+}

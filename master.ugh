@@ -1,0 +1,9 @@
+# Include # 
+$ {
+	assembly "include\\ufl\\UFL.dll" as ASM_UFL;
+	insert Ufl as ufl from ASM_UFL;
+	insert UflInput as keyboard from ASM_UFL;
+}
+
+# Insert game #
+insert "game.ugh";
